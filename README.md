@@ -1,6 +1,6 @@
 # RAGOS - Caregiver Monitoring and Evaluation System
 
-Graduation project for ENS 492.
+This is my graduation project at Sabancı University.
 This repository contains an end-to-end prototype that analyzes caregiver-child interactions from audio only (no camera feed), then generates structured insights and alerts with ML/LLM agents.
 
 ## Project Scope
@@ -195,4 +195,3 @@ python interactive_labeler.py --samples speaker_samples --labels speaker_labels.
 
 The project follows an audio-first monitoring approach intended to be more privacy-preserving than camera-based surveillance.
 Outputs are decision-support signals and should not replace human review.
-
