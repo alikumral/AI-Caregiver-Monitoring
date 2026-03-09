@@ -1,0 +1,75 @@
+[00:00:00 - 00:00:01] [Man(1.00)] Hey, how are you doing out there?
+[00:00:01 - 00:00:02] [Child(0.99)] George.
+[00:00:02 - 00:00:02] [Man(1.00)] Language.
+[00:00:02 - 00:00:03] [Man(1.00)] What language?
+[00:00:03 - 00:00:04] [Man(1.00)] So?
+[00:00:04 - 00:00:06] [Child(0.99)] I was exploring dimensional kinematics.
+[00:00:06 - 00:00:08] [Child(0.99)] In a minute, he's adopted.
+[00:00:08 - 00:00:11] [Child(0.99)] How can I be adopted when I have a twin sister?
+[00:00:11 - 00:00:12] [Child(0.99)] Think, monkey.
+[00:00:12 - 00:00:13] [Child(0.99)] Think.
+[00:00:13 - 00:00:13] [Woman(1.00)] That's enough.
+[00:00:13 - 00:00:14] [Woman(1.00)] No one's adopted.
+[00:00:14 - 00:00:15] [Woman(1.00)] I wish I was.
+[00:00:15 - 00:00:17] [Woman(1.00)] That can still be arranged.
+[00:00:17 - 00:00:18] [Woman(1.00)] Now let's pray.
+[00:00:18 - 00:00:23] [Woman(1.00)] A moment, please.
+[00:00:23 - 00:00:23] [Woman(1.00)] Leave him be.
+[00:00:23 - 00:00:25] [Man(1.00)] He can hold hands with his family.
+[00:00:25 - 00:00:26] [Man(1.00)] He won't kill him.
+[00:00:26 - 00:00:27] [Child(0.99)] We don't know that.
+[00:00:27 - 00:00:31] [Child(0.99)] Georgie, did you wash your hands for dinner or even this week?
+[00:00:31 - 00:00:32] [Child(0.99)] None of your business.
+[00:00:32 - 00:00:36] [Child(0.99)] Hands to mittens.
+[00:00:36 - 00:00:38] [Woman(1.00)] Thank you, God, for this food we were about to receive
+[00:00:38 - 00:00:40] [Woman(1.00)] and for the nourishment of our bodies
+[00:00:40 - 00:00:42] [Woman(1.00)] and bless the hands that prepared it.
+[00:00:42 - 00:00:45] [Woman(1.00)] Amen, ma'am.
+[00:00:45 - 00:00:47] [Woman(1.00)] How come we ain't got no tater tots?
+[00:00:47 - 00:00:49] [Woman(1.00)] I made tater tots last night.
+[00:00:49 - 00:00:51] [Child(0.99)] I take tater tots over my tater's any day.
+[00:00:51 - 00:00:53] [Child(0.99)] Just eat what I made you.
+[00:00:53 - 00:00:54] [Child(0.99)] Can we at least have tater tots tomorrow?
+[00:00:54 - 00:00:57] [Man(0.99)] It was family dinners like this that led me
+[00:00:57 - 00:00:59] [Man(0.99)] to adopt a mid-Atlantic accent.
+[00:00:59 - 00:01:03] [Man(0.99)] Nobel Prize winners ought not be ordering tater tots.
+[00:01:03 - 00:01:05] [Woman(1.00)] Everybody excited to start school Monday?
+[00:01:05 - 00:01:06] [Woman(1.00)] I am.
+[00:01:06 - 00:01:08] [Woman(1.00)] I guess so.
+[00:01:08 - 00:01:11] [Child(0.99)] Georgie, freshman year, that's a big deal.
+[00:01:11 - 00:01:12] [Child(0.99)] How can I be excited when he's going
+[00:01:12 - 00:01:14] [Child(0.99)] to be in the same grade as me?
+[00:01:14 - 00:01:15] [Child(0.99)] Don't worry, Georgie.
+[00:01:15 - 00:01:18] [Child(0.99)] I'm not planning on being in the ninth grade for very long.
+[00:01:18 - 00:01:20] [Child(0.99)] All I know is he's not in the same grade as me anymore,
+[00:01:20 - 00:01:21] [Child(0.99)] and I'm thrilled.
+[00:01:21 - 00:01:23] [Child(0.99)] Good luck with your finger painting.
+[00:01:23 - 00:01:25] [Child(0.99)] You're going to get your ass kicked in high school.
+[00:01:25 - 00:01:27] [Child(0.99)] Hey, language.
+[00:01:27 - 00:01:28] [Child(0.99)] I'm not going to be assaulted.
+[00:01:28 - 00:01:30] [Child(0.99)] High school's a haven for higher learning.
+[00:01:30 - 00:01:32] [Man(1.00)] Oh, dear God.
+[00:01:32 - 00:01:34] [Woman(1.00)] Speaking of God, who's going to church with me tomorrow?
+[00:01:34 - 00:01:35] [Man(1.00)] I can't.
+[00:01:35 - 00:01:37] [Man(1.00)] I'll meet with the other coaches.
+[00:01:37 - 00:01:38] [Woman(1.00)] Can't meet after church?
+[00:01:38 - 00:01:42] [Man(1.00)] No, Mary, I can't meet after church.
+[00:01:42 - 00:01:43] [Child(0.99)] Georgie?
+[00:01:43 - 00:01:48] [Child(0.99)] I got a study in my playbook.
+[00:01:48 - 00:01:50] [Child(0.99)] I'll go with you, Mom.
+[00:01:50 - 00:01:51] [Child(0.99)] Why are you going?
+[00:01:51 - 00:01:52] [Child(0.99)] You don't believe in God.
+[00:01:52 - 00:01:54] [Child(0.99)] No, but I believe in Mom.
+[00:01:54 - 00:01:55] [Child(0.99)] I'll take that.
+[00:01:55 - 00:01:56] [Child(0.99)] Missy?
+[00:01:56 - 00:01:57] [Child(0.99)] Can't.
+[00:01:57 - 00:01:58] [Child(0.99)] How the rest of the minute?
+[00:01:58 - 00:01:58] [Child(0.99)] You're going.
+[00:01:58 - 00:02:00] [Child(0.99)] Son of a bitch.
+[00:02:00 - 00:02:01] [Child(0.99)] Hey.
+[00:02:01 - 00:02:03] [Child(0.99)] Ow, whoa.
+[00:02:03 - 00:02:04] [Woman(1.00)] Missy, go.
+[00:02:05 - 00:02:06] [Woman(1.00)] Something at the dinner table.
+[00:02:06 - 00:02:07] [Woman(1.00)] George Jr.
+[00:02:07 - 00:02:12] [Man(0.99)] Jane Goodall had to go to Africa to study apes.
+[00:02:12 - 00:02:14] [Man(0.99)] I just had to go to dinner.

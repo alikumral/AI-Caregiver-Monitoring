@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+serviceAccount*.json
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs and runtime artifacts
+*.log
+*.tmp
+
+# Local model/cache/build data
+LLM Evaluation/embeddings/chroma_index/
+LLM Evaluation/embeddings/chunks.pkl
+LLM Evaluation/firebase-debug.log
+LLM Evaluation/firestore-debug.log
+LLM Evaluation/temp_uploaded_file.csv
+
+# Generated outputs (can be regenerated)
+Speech2Text/comparison_results/
+Speech2Text/feature_cache/
+Speech2Text/speaker_samples/
+LLM Evaluation/data/analysis_results/
+

@@ -1,0 +1,20 @@
+SPEAKER CLASSIFICATION REPORT
+===========================
+
+ACOUSTIC CLASSIFICATION:
+Speaker SPEAKER_01: Woman (Man: 0.23, Woman: 0.72, Child: 0.05)
+Speaker SPEAKER_03: Child (Man: 0.04, Woman: 0.32, Child: 0.64)
+Speaker SPEAKER_02: Woman (Man: 0.05, Woman: 0.90, Child: 0.05)
+Speaker SPEAKER_00: Man (Man: 0.90, Woman: 0.05, Child: 0.05)
+
+LLM CLASSIFICATION:
+Speaker SPEAKER_01: Man (Man: 0.55, Woman: 0.23, Child: 0.22)
+Speaker SPEAKER_03: Child (Child: 0.37, Man: 0.37, Woman: 0.26)
+Speaker SPEAKER_02: Woman (Woman: 0.56, Child: 0.24, Man: 0.21)
+Speaker SPEAKER_00: Woman (Woman: 0.89, Man: 0.08, Child: 0.04)
+
+FINAL CLASSIFICATION:
+Speaker SPEAKER_01: Man (confidence: 0.55)
+Speaker SPEAKER_03: Child (confidence: 0.56)
+Speaker SPEAKER_02: Woman (confidence: 0.80)
+Speaker SPEAKER_00: Man (confidence: 0.90)

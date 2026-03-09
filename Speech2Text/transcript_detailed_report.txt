@@ -1,0 +1,59 @@
+SPEAKER CLASSIFICATION DETAILED REPORT
+====================================
+
+SUMMARY
+-------
+Total speakers identified: 4
+  Man: 2
+  Woman: 1
+  Child: 1
+  Unknown: 0
+
+SPEAKER: SPEAKER_00
+----------------------------------------
+Classification: Man
+Age estimate: 57.7 years
+Confidence: 0.99
+
+Gender Probabilities:
+  Female: 0.0107
+  Male: 0.9892
+  Child: 0.0001
+
+
+SPEAKER: SPEAKER_01
+----------------------------------------
+Classification: Man
+Age estimate: 58.8 years
+Confidence: 1.00
+
+Gender Probabilities:
+  Female: 0.0023
+  Male: 0.9977
+  Child: 0.0001
+
+
+SPEAKER: SPEAKER_02
+----------------------------------------
+Classification: Woman
+Age estimate: 61.0 years
+Confidence: 1.00
+
+Gender Probabilities:
+  Female: 0.9982
+  Male: 0.0018
+  Child: 0.0001
+
+
+SPEAKER: SPEAKER_03
+----------------------------------------
+Classification: Child
+Age estimate: 11.4 years
+Confidence: 0.99
+
+Gender Probabilities:
+  Female: 0.0084
+  Male: 0.0006
+  Child: 0.9911
+
+
