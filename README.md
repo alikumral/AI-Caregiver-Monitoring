@@ -184,12 +184,6 @@ python interactive_labeler.py --samples speaker_samples --labels speaker_labels.
 - Comparison visuals: `Speech2Text/comparison_results/visualization_results/`
 - LLM test outputs: `LLM Evaluation/data/tests/`
 
-## Security and Publishing Notes
-
-- This repo contains experimental scripts and generated artifacts.
-- Hardcoded Hugging Face tokens were replaced with `HF_API_KEY` environment usage in Speech2Text scripts.
-- Consider adding Git LFS for large media (`.mp3`, `.wav`) before public release.
-- `LLM Evaluation/README.md` is empty; this root README is the primary documentation.
 
 ## Ethics and Privacy
 
